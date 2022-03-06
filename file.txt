@@ -5,3 +5,4 @@ added new line in newbranch
 >>>>>>> parent of a939c58... commit 1 master
 line 1
 new line added after reverting back to commit1
+modied line added
