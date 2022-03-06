@@ -9,4 +9,8 @@ line 2
 line 3
 =======
 new line added after reverting back to commit1
+<<<<<<< HEAD
+>>>>>>> modified
+=======
+modied line added
 >>>>>>> modified
