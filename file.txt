@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 in branch master 
 added new line in newbranch
+=======
+>>>>>>> parent of a939c58... commit 1 master
