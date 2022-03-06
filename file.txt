@@ -5,3 +5,4 @@ added new line in newbranch
 >>>>>>> parent of a939c58... commit 1 master
 line 1
 line 2
+line 3
