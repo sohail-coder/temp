@@ -11,3 +11,5 @@ new line added after reverting back to commit1
 =======
 modied line added
 >>>>>>> modified
+line new added for demo
+line new added for demooooooooooo
